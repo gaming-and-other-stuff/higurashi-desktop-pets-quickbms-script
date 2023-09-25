@@ -1,0 +1,7 @@
+get ENTRIES long
+for RIP = 1 to ENTRIES
+get OFFSET long
+get SIZE long
+Getdstring NAME 0x38
+log NAME OFFSET SIZE
+next RIP
