@@ -1,5 +1,5 @@
 # higurashi-desktop-pets-quickbms-script
-A QuickBMS script for the Higurashi Desktop Pets.
+A QuickBMS script for the [Higurashi Desktop Pets](https://archive.org/details/higurashi-desktop-pets).
 
 ## Ownership
 I did not make this script, I requested for this script to be made sometime in mid 2022. I did not manage to document who gave me this script or even remember who made it, so I unfortunately can't credit the original author.
